@@ -1,1 +1,7 @@
 /go_test/pkg
+/go_test/bin
+/go_test/src/github.com
+/go_test/src/golang.org
+/go_test/src/sourcegraph.com
+/go_flowcontrol/bin
+/go_flowcontrol/src/github.com
